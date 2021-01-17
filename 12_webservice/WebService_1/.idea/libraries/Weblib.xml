@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Weblib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/Weblib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Weblib" recursive="false" />
+  </library>
+</component>
